@@ -154,7 +154,7 @@ Save the file and knit again.
 Find the Git pane. After the modification and knitting, it should look like 
 Figure \@ref(fig:git-pane).
 
-```{r, git-pane, fig.align='center', fig.cap='Git pane', echo=FALSE}
+```{r, git-pane, echo=FALSE, fig.align='center', fig.cap='Git pane', out.width="300px"}
 knitr::include_graphics("asset/images/git-pane.png")
 ```
 
