@@ -110,7 +110,7 @@ Double click `hw01.Rproj` file. RStudio will open.
 
 ## Step 4. Open this assignment file {-}
 
-Look at the "Files" pane on RStudio, where you can find "problem.Rmd". 
+Look at the "Files" pane on RStudio, where you can find "solution.Rmd". 
 Click it and now you see the source file of this instruction manual. 
 
 
