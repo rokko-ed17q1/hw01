@@ -1,6 +1,6 @@
 ---
 title: 'hw01: Set-up'
-author: 'Your name^[Affiliation]'
+author: 'Kenji Sato^[Kobe University. Email: mail@kenjisato.jp]'
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output:
   bookdown::pdf_document2:
