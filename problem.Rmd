@@ -199,7 +199,7 @@ ggplot(iris_tbl) +
 ```
 
 
-# Example: Matheamtical expressions using LaTeX
+# Example: Mathematical expressions using LaTeX
 
 You can produce mathematical equations using LaTeX syntax: 
 
