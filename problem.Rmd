@@ -57,6 +57,7 @@ Please install the following softwares (they are free)
 - LaTeX system ([texlive for Windows/Linux](https://www.tug.org/texlive/), 
   [MacTeX for macOS](https://tug.org/mactex/))
 - [GitHub Desktop](https://desktop.github.com/)
+- [Git for Windows](https://git-for-windows.github.io/) for Windows
 
 When you finish installation, follow the instructions below.
 
